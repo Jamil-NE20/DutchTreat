@@ -22,3 +22,13 @@ C:\Users\Studerande\Desktop\Lexicon\Study information and Problem\MVC\Pluralsigh
 C:\Users\Studerande\Desktop\Lexicon\Study information and Problem\MVC\Pluralsight\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.csproj.CoreCompileInputs.cache
 C:\Users\Studerande\Desktop\Lexicon\Study information and Problem\MVC\Pluralsight\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Studerande\Desktop\Lexicon\Study information and Problem\MVC\Pluralsight\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.csproj.CopyComplete
+C:\Users\Studerande\Desktop\Lexicon\Study information and Problem\MVC\Pluralsight\DutchTreat\bin\Debug\netcoreapp3.1\DutchTreat.Views.dll
+C:\Users\Studerande\Desktop\Lexicon\Study information and Problem\MVC\Pluralsight\DutchTreat\bin\Debug\netcoreapp3.1\DutchTreat.Views.pdb
+C:\Users\Studerande\Desktop\Lexicon\Study information and Problem\MVC\Pluralsight\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.RazorAssemblyInfo.cache
+C:\Users\Studerande\Desktop\Lexicon\Study information and Problem\MVC\Pluralsight\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.RazorAssemblyInfo.cs
+C:\Users\Studerande\Desktop\Lexicon\Study information and Problem\MVC\Pluralsight\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.TagHelpers.input.cache
+C:\Users\Studerande\Desktop\Lexicon\Study information and Problem\MVC\Pluralsight\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.TagHelpers.output.cache
+C:\Users\Studerande\Desktop\Lexicon\Study information and Problem\MVC\Pluralsight\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.RazorCoreGenerate.cache
+C:\Users\Studerande\Desktop\Lexicon\Study information and Problem\MVC\Pluralsight\DutchTreat\obj\Debug\netcoreapp3.1\Razor\Views\App\Index.cshtml.g.cs
+C:\Users\Studerande\Desktop\Lexicon\Study information and Problem\MVC\Pluralsight\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.RazorTargetAssemblyInfo.cs
+C:\Users\Studerande\Desktop\Lexicon\Study information and Problem\MVC\Pluralsight\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.Views.pdb
