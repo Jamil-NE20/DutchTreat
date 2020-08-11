@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ky3mNxOk9RLDRdwljgGCsQq2e+1oMKPTtdE8jWBB+7O875xNJJeHKp0ZlgGXf2cSC4Fa/1ISGy1j7LnYyqQN1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Studerande\\Desktop\\Lexicon\\Study information and Problem\\MVC\\Pluralsight\\DutchTreat\\DutchTreat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Studerande\\.nuget\\packages\\odetocode.usenodemodules\\3.0.0\\odetocode.usenodemodules.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
